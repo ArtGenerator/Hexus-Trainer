@@ -50,7 +50,7 @@ CHEATS:
 
 - NUM2 - FREEZE THE SILVER COINS   (freezes the amount of silver coins)
 
-- NUM3 - ADD GOLD AND SILVER COINS (adds up to 5000 gold and silver coins)
+- NUM3 - ADD GOLD AND SILVER COINS  (adds up to 5000 gold and silver coins)
 
 * You can read more about how each cheat works after launching the trainer 
   and navigating to the options menu
